@@ -661,6 +661,9 @@ ul {
 .modal-form-wrapper {
     margin-bottom: 8px;
 }
+.modal-form-wrapper-comment {
+    margin-bottom: 16px;
+}
 .modal-form-title {
     font-size: 16px;
     font-weight: 500;

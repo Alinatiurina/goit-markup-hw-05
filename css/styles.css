@@ -639,16 +639,6 @@ ul {
     transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1),
         border 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
-.form-close-buttom:hover,
-.form-close-buttom:focus,
-.form-close-buttom:active {
-    background-color: #404bbf;
-}
-.form-close-buttom:hover > svg,
-.form-close-buttom:focus > svg,
-.form-close-buttom:active > svg {
-    fill: #ffffff;
-}
 
 .modal-close-icon {
     position: absolute;
@@ -693,11 +683,11 @@ ul {
 .modal-form-input:focus + .modal-input-icon {
     fill: #4d5ae5;
 }
-.modal-form-textarea:focus {
+/* .modal-form-textarea:focus {
     border-color: #4d5ae5;
     outline-offset: 6px;
     outline-color: transparent;
-}
+} */
 .modal-input-icon {
     position: absolute;
     top: 50%;
@@ -736,7 +726,7 @@ ul {
     outline: transparent;
     transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
-.modal-form-textarea:hover {
+.modal-form-textarea:focus {
     border: 1px solid #4d5ae5;
 }
 .privat-policy-link {

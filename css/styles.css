@@ -658,7 +658,7 @@ ul {
     fill: #ffffff;
 }
 .modal-form-wrapper {
-    margin-bottom: 8px;
+    margin-bottom: 16px;
 }
 .modal-form-title {
     font-size: 16px;
@@ -764,7 +764,7 @@ ul {
     margin-top: 16px;
 }
 .modal-form-checkbox-wrapper {
-    margin-bottom: 16px;
+    margin-bottom: 24px;
 }
 .modal-form-checkbox {
 }

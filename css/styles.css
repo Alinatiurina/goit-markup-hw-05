@@ -657,7 +657,7 @@ ul {
 .form-close-buttom:hover > svg {
     fill: #ffffff;
 }
-.modal-form-first {
+.modal-form-wrapper:first-child {
     margin-bottom: 8px;
 }
 .modal-form-wrapper {
